@@ -1,0 +1,10 @@
+.btn {
+    border-radius: 50px;
+    text-align: center;
+    line-height: 1.42857;
+    padding: .6rem 1rem;
+}
+
+.mx-auto {
+    margin-top: 20%;
+}

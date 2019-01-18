@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-size: 1.2em;
+    color: gray;
+}
+
+.content {
+    border: 1px solid #CCD1D1;
+}
+
+.title {
+    font-size: 1.7em;
+    font-weight: bold;
+    color: gray;
+}
+
+@media (min-width: 992px) {
+    .container {
+        padding-left: 30%;
+        padding-right: 30%;
+    }
+}

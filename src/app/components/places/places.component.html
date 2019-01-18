@@ -1,0 +1,32 @@
+<main class="container">
+  <section class="row title mt-5 mb-3">
+    <h1>Elige tus lugares</h1>
+  </section>
+  <div class="content places">
+    <div class=" screen col-12 mx-auto">
+      Pantalla
+    </div>
+    <div class="row mt-4 mb-4">
+      <button type="button" class="btn gray col-1 mx-auto" id="one">
+        1
+      </button>
+      <button type="button" class="btn btn-dark col-1 mx-auto" disabled>
+        2
+      </button>
+      <button type="button" class="btn gray col-1 mx-auto" id="three">
+        3
+      </button>
+      <button type="button" class="btn gray col-1 mx-auto" id="four">
+        4
+      </button>
+    </div>
+  </div>
+  <section>
+    <div class="alert alert-info mt-3" *ngIf="promo" role="alert">
+      ¡Seleccionaste tres asientos! ¡Descuento del 50%!
+    </div>
+  </section>
+  <section>
+    <app-bill [acount]="acount"></app-bill>
+  </section>
+</main>

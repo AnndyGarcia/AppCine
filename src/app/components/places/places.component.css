@@ -1,0 +1,30 @@
+.btn {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 1.42857;
+}
+
+.btn-dark {
+    color: #000000;
+    background-color: #000000;
+}
+
+.gray {
+    background-color: #EAECEE;
+}
+
+h1{
+    margin: auto;
+}
+
+.places {
+    margin-bottom: 5rem;
+}
+
+.screen {
+    background-color: #CCD1D1;
+    color: black
+}

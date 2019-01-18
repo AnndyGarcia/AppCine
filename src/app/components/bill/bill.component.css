@@ -1,0 +1,13 @@
+.btn {
+    padding: .2em 3rem;
+    border-radius: .9rem;
+}
+
+.content {
+    margin-top: 1em;
+}
+
+div{
+    margin: inherit;
+    justify-content: center;
+}
