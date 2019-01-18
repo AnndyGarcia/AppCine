@@ -8,6 +8,9 @@ Crear una aplicación web que permita seleccionar lugares para la entrada a un c
 
 Este es el diseño deseado para la aplicación
 
+![prototipo 1](https://user-images.githubusercontent.com/8524564/51359831-fdf6d100-1a8e-11e9-8e13-26c4cd1dbb09.png)
+![prototipo 2](https://user-images.githubusercontent.com/8524564/51359840-0bac5680-1a8f-11e9-8d76-2027755f7a33.png)
+
 Consiste en dos pantallas, la primera contiene dos secciones: **Mapa del cine** y **Resumen del pedido**. La tercera es una pantalla que contiene el texto *“Gracias por tu compra”*.
 
 ### Mapa del cine
@@ -32,7 +35,12 @@ Los requerimientos son:
 
 ## Producto final
 
-Demo: 
+### [Demo] (https://anndygarcia.github.io/AppCine/)
+
+![Mapa cine](https://user-images.githubusercontent.com/8524564/51359859-1e269000-1a8f-11e9-91bd-833e972ff987.png)
+![Resumen pedido](https://user-images.githubusercontent.com/8524564/51359860-1ebf2680-1a8f-11e9-8f8a-6087b29fd2d0.png)
+![Pantalla final](https://user-images.githubusercontent.com/8524564/51359861-1ebf2680-1a8f-11e9-944d-cc830631a044.png)
+
 
 ## Tecnologías usadas
 
